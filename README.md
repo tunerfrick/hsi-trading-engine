@@ -128,8 +128,7 @@ MIT License - see LICENSE file for details
 
 ## Author
 
-**tunerfrick** - Physics × AIDA Student, PolyU  
-Building quant finance projects for portfolio development
+**vikram(duh)** - physics × aida student, polyu  
 
 ## Acknowledgments
 
